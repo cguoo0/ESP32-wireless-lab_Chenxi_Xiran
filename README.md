@@ -1,0 +1,1 @@
+In this lab, we use BLE (Bluetooth Low-Energy) to connect two Seeeduino XIAO ESP32S3 microcontrollers. We use ultrasonic sensor to detect distance and use servers to send distance information to scanner.
